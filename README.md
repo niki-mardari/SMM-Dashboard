@@ -6,8 +6,4 @@
 * Comparison charts 
 
 Video demo: 
-
-
-
-<video src="videos/SMM_Dashboard_Live.mp4" width="600" controls>
-</video>
+https://youtu.be/r_gKMIxpuhE
