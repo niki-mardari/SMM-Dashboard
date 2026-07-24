@@ -7,7 +7,5 @@
 
 Video demo: 
 
-
-
 <video src="https://youtu.be/r_gKMIxpuhE" width="600" controls>
 </video>
