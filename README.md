@@ -9,4 +9,4 @@ Video demo:
 https://youtu.be/r_gKMIxpuhE
 
 # Contributors:
-Dovydas Klysis
+Dovydas Klisys
